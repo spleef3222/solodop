@@ -1,0 +1,30 @@
+{
+  "name": "solodop",
+  "version": "1.0.0",
+  "description": "Solodop is a Node.js module for color manipulation and palette generation using chroma-js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spleef3222/solodop"
+  },
+  "dependencies": {
+	  "denisgorlov": "1.0.0",
+"christopherlee-bit": "1.0.0",
+"pologovsemen-part": "1.0.0",
+"trumposwere": "1.0.0",
+"v2-sharondavis": "1.0.0",
+"farmaniyah-mod": "1.0.0",
+"zheminivan": "1.0.0",
+    "chroma-js": "^2.1.2",
+    "randomcolor": "^0.6.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spleef3222/solodop/issues"
+  },
+  "homepage": "https://github.com/spleef3222/solodop#readme"
+}
